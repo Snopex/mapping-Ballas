@@ -3,4 +3,5 @@
 
 # Installation
 1.Add the ballasint folder to your FiveM resources directory.
+
 2.Inside the server.cfg file type start ballasint.
